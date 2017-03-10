@@ -1,0 +1,3 @@
+rootProject.name = 'tukarjual'
+
+include ':app'
